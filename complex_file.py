@@ -4,4 +4,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-print("Guru99")
+print("Careful end of the program")
